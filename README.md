@@ -9,8 +9,8 @@
 ### Hi there 👋
 
 - 💻 **Computer Engineering Student**
-- 🔥 Passionate about **C++**, **Python**, and **Go**
-- 🌱 Currently learning **Go** and **Robotics**
+- 🔥 QA Specialist @DGshahr
+- 🌱 Currently learning **Software test** and **Robotics** and **AI**
 - 📫 Reach me via [Telegram](https://t.me/Erfan_Shafiee)
 - 👨‍💻 Check out my [resume](https://github.com/erfanshafieeee/erfanshafieeee/blob/main/Erfan-Shafiee-Resume.pdf)
 - 💬 Ask me anything [here](https://github.com/erfanshafieeee/erfanshafieeee/issues)
@@ -32,6 +32,8 @@
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
 <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+<a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></a>
 <br>
 ### 🌐 Web Frameworks  
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
@@ -39,9 +41,15 @@
 ### 🤖 Artificial Intelligence  
 <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"><img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
 <br>
+### 🧪 Software Testing  
+<a href="https://www.selenium.dev/" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /></a>
+<a href="https://pytest.org/" target="_blank"><img src="https://img.shields.io/badge/Pytest-000000?style=for-the-badge&logo=pytest&logoColor=white" /></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
+<br>
 ### 🔧 Tools  
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/API" target="_blank"><img src="https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=graphql&logoColor=white" /></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></a>
 
 </div>
 
