@@ -1,17 +1,10 @@
-<div align="center">
-  <img height="120" src="https://github.com/erfanshafieeee/erfanshafieeee/blob/main/logo.png" alt="Logo">
-</div>
-<div>
-  <img align="Left" src="https://visitor-badge.laobi.icu/badge?page_id=erfanshafieeee" alt="Visitor Badge"/>
-</div>
-
 
 ### Hi there 👋
 
 - 💻 **Computer Engineering Student**
 - 🔥 QA Specialist @DGshahr
 - 🌱 Currently learning **Software test** and **Robotics** and **AI**
-- 📫 Reach me via [Telegram](https://t.me/Erfan_Shafiee)
+- 📫 Reach me via [Telegram](https://t.me/Erfan_Shafiee) , [Linkedin](www.linkedin.com/in/erfan-shafieeee)
 - 👨‍💻 Check out my [resume](https://github.com/erfanshafieeee/erfanshafieeee/blob/main/Erfan-Shafiee-Resume.pdf)
 - 💬 Ask me anything [here](https://github.com/erfanshafieeee/erfanshafieeee/issues)
 - ⚡ **Fun fact:** I enjoy learning something new every day!
