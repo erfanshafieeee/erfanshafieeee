@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 - 💻 **Computer Engineering Student**
-- 🔥 QA Specialist @DGshahr
+- 🔥 QA Specialist @SON
 - 🌱 Currently learning **Software test** and **Robotics** and **AI**
 - 📫 Reach me via [Telegram](https://t.me/Erfan_Shafiee) , [Linkedin](www.linkedin.com/in/erfan-shafieeee)
 - 👨‍💻 Check out my [resume](https://github.com/erfanshafieeee/erfanshafieeee/blob/main/Erfan-Shafiee-Resume.pdf)
